@@ -3290,10 +3290,10 @@
             "can",
             "tube"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "DOP_Refrigerate_Max",
+        "Expiration_time": 3,
+        "Expiration_metric": "Months",
+        "Expiration_time_DAYS": 90
     },
     "246": {
         "Name": "Ready-to-bake pie crust",
@@ -5580,10 +5580,10 @@
             "bottle",
             "commercial"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "Pantry_Max",
+        "Expiration_time": 2,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 730
     },
     "414": {
         "Name": "Kumquats",
@@ -6401,10 +6401,10 @@
             "plain",
             "iodized"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "Pantry_Max",
+        "Expiration_time": 5,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 1825
     },
     "469": {
         "Name": "Black pepper",
@@ -7381,10 +7381,10 @@
             "hard liquors",
             "liquor"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "Pantry_Max",
+        "Expiration_time": 2,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 730
     },
     "540": {
         "Name": "Cream liquors",
@@ -7549,10 +7549,10 @@
             "biscuits",
             "refrigerated"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "DOP_Refrigerate_Max",
+        "Expiration_time": 3,
+        "Expiration_metric": "Months",
+        "Expiration_time_DAYS": 90
     },
     "553": {
         "Name": "Tortillas",
@@ -7614,10 +7614,10 @@
             "cider",
             "apple"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "Pantry_Max",
+        "Expiration_time": 2,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 730
     },
     "558": {
         "Name": "Nutrition supplement drinks",
@@ -8330,10 +8330,10 @@
             "seed",
             "seeds"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "Pantry_Max",
+        "Expiration_time": 6,
+        "Expiration_metric": "Months",
+        "Expiration_time_DAYS": 180
     },
     "611": {
         "Name": "Parsley",
@@ -8383,10 +8383,10 @@
             "in jar",
             "jar"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "DOP_Pantry_Max",
+        "Expiration_time": 1,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 365
     },
     "615": {
         "Name": "Chocolate hazelnut spread",
@@ -8401,10 +8401,10 @@
             "cocoa",
             "cocoa spread"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "DOP_Pantry_Max",
+        "Expiration_time": 1,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 365
     },
     "616": {
         "Name": "Roasted nuts (peanuts, cashews, almonds)",
@@ -8680,10 +8680,10 @@
             "roll",
             "rolls"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "Refrigerate_Max",
+        "Expiration_time": 3,
+        "Expiration_metric": "Months",
+        "Expiration_time_DAYS": 90
     },
     "635": {
         "Name": "Cinnamon rolls",
@@ -8708,10 +8708,10 @@
             "wine",
             "cooking"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "Refrigerate_Max",
+        "Expiration_time": 1,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 365
     },
     "637": {
         "Name": "Bulgur",
@@ -8920,10 +8920,10 @@
             "bottled",
             "supplement"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "DOP_Pantry_Max",
+        "Expiration_time": 6,
+        "Expiration_metric": "Months",
+        "Expiration_time_DAYS": 180
     },
     "652": {
         "Name": "Instant breakfast drinks",
@@ -9234,10 +9234,10 @@
             "beef",
             "vegetable"
         ],
-        "Expiration_basis": "",
-        "Expiration_time": null,
-        "Expiration_metric": "",
-        "Expiration_time_DAYS": null
+        "Expiration_basis": "DOP_Pantry_Max",
+        "Expiration_time": 1,
+        "Expiration_metric": "Years",
+        "Expiration_time_DAYS": 365
     },
     "673": {
         "Name": "Anchovies",

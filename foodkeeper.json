@@ -23965,10 +23965,10 @@
             "DOP_Refrigerate_Min": null
           },
           {
-            "DOP_Refrigerate_Max": null
+            "DOP_Refrigerate_Max": 3
           },
           {
-            "DOP_Refrigerate_Metric": null
+            "DOP_Refrigerate_Metric": "Months"
           },
           {
             "DOP_Refrigerate_tips": null
@@ -38915,10 +38915,10 @@
             "Pantry_Min": null
           },
           {
-            "Pantry_Max": null
+            "Pantry_Max": 2
           },
           {
-            "Pantry_Metric": "Indefinitely"
+            "Pantry_Metric": "Years"
           },
           {
             "Pantry_tips": "Water will store indefinitely, though the taste may be impacted by storage conditions, including sunlight, items stored around it and the containers being used to store it."
@@ -44007,10 +44007,10 @@
             "Pantry_Min": null
           },
           {
-            "Pantry_Max": null
+            "Pantry_Max": 5
           },
           {
-            "Pantry_Metric": "Indefinitely"
+            "Pantry_Metric": "Years"
           },
           {
             "Pantry_tips": null
@@ -49886,10 +49886,10 @@
             "Pantry_Min": null
           },
           {
-            "Pantry_Max": null
+            "Pantry_Max": 2
           },
           {
-            "Pantry_Metric": "Indefinitely"
+            "Pantry_Metric": "Years"
           },
           {
             "Pantry_tips": null
@@ -51001,10 +51001,10 @@
             "DOP_Refrigerate_Min": null
           },
           {
-            "DOP_Refrigerate_Max": null
+            "DOP_Refrigerate_Max": 3
           },
           {
-            "DOP_Refrigerate_Metric": null
+            "DOP_Refrigerate_Metric": "Months"
           },
           {
             "DOP_Refrigerate_tips": null
@@ -51299,10 +51299,10 @@
             "Pantry_Min": null
           },
           {
-            "Pantry_Max": null
+            "Pantry_Max": 2
           },
           {
-            "Pantry_Metric": "Indefinitely"
+            "Pantry_Metric": "Years"
           },
           {
             "Pantry_tips": null
@@ -55728,10 +55728,10 @@
             "Pantry_Min": null
           },
           {
-            "Pantry_Max": null
+            "Pantry_Max": 6
           },
           {
-            "Pantry_Metric": null
+            "Pantry_Metric": "Months"
           },
           {
             "Pantry_tips": null
@@ -55985,10 +55985,10 @@
             "DOP_Pantry_Min": null
           },
           {
-            "DOP_Pantry_Max": null
+            "DOP_Pantry_Max": 1
           },
           {
-            "DOP_Pantry_Metric": null
+            "DOP_Pantry_Metric": "Years"
           },
           {
             "DOP_Pantry_tips": null
@@ -56029,10 +56029,10 @@
             "DOP_Pantry_Min": null
           },
           {
-            "DOP_Pantry_Max": null
+            "DOP_Pantry_Max": 1
           },
           {
-            "DOP_Pantry_Metric": null
+            "DOP_Pantry_Metric": "Years"
           },
           {
             "DOP_Pantry_tips": null
@@ -57723,10 +57723,10 @@
             "Refrigerate_Min": null
           },
           {
-            "Refrigerate_Max": null
+            "Refrigerate_Max": 3
           },
           {
-            "Refrigerate_Metric": "Package use-by date"
+            "Refrigerate_Metric": "Months"
           },
           {
             "Refrigerate_tips": null
@@ -57889,10 +57889,10 @@
             "Refrigerate_Min": null
           },
           {
-            "Refrigerate_Max": null
+            "Refrigerate_Max": 1
           },
           {
-            "Refrigerate_Metric": "Package use-by date"
+            "Refrigerate_Metric": "Years"
           },
           {
             "Refrigerate_tips": null
@@ -58894,10 +58894,10 @@
             "DOP_Pantry_Min": null
           },
           {
-            "DOP_Pantry_Max": null
+            "DOP_Pantry_Max": 6
           },
           {
-            "DOP_Pantry_Metric": null
+            "DOP_Pantry_Metric": "Months"
           },
           {
             "DOP_Pantry_tips": null
@@ -60658,10 +60658,10 @@
             "DOP_Pantry_Min": null
           },
           {
-            "DOP_Pantry_Max": null
+            "DOP_Pantry_Max": 1
           },
           {
-            "DOP_Pantry_Metric": null
+            "DOP_Pantry_Metric": "Years"
           },
           {
             "DOP_Pantry_tips": null
