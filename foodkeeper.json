@@ -3563,10 +3563,10 @@
             "DOP_Refrigerate_Min": null
           },
           {
-            "DOP_Refrigerate_Max": null
+            "DOP_Refrigerate_Max": 3
           },
           {
-            "DOP_Refrigerate_Metric": null
+            "DOP_Refrigerate_Metric": "Weeks"
           },
           {
             "DOP_Refrigerate_tips": null
@@ -26021,13 +26021,13 @@
             "Category_ID": 18
           },
           {
-            "Name": "Papaya, mango, feijoa, passionfruit, casaha melon"
+            "Name": "Papaya, mango, feijoa, passion fruit, casaba melon"
           },
           {
             "Name_subtitle": null
           },
           {
-            "Keywords": "Papaya,mango,feijoa,passionfruit,casaha melon,melon,fruit,passion"
+            "Keywords": "Papaya,mango,feijoa,passion fruit,casaba melon,melon,fruit,passion"
           },
           {
             "Pantry_Min": null
@@ -36731,7 +36731,7 @@
             "Name_subtitle": "raisins, apricots, mangoes, cranberries, etc."
           },
           {
-            "Keywords": "Fruits,fruit,dried,raisins,raisin,apricots,apricot,mangoes,mangoe,cranberries,cranberry"
+            "Keywords": "Fruits,fruit,dried,raisins,raisin,apricots,apricot,mangoes,mango,cranberries,cranberry"
           },
           {
             "Pantry_Min": null
@@ -55636,7 +55636,7 @@
             "Name_subtitle": "roasted, no shell"
           },
           {
-            "Keywords": "sunflower,sunflower seed,sunflower seeds,seed,seeds,kernal,shell"
+            "Keywords": "sunflower,sunflower seed,sunflower seeds,seed,seeds,kernel,shell"
           },
           {
             "Pantry_Min": null
@@ -56005,7 +56005,7 @@
             "Category_ID": 23
           },
           {
-            "Name": "Chocolate hazlenut spread"
+            "Name": "Chocolate hazelnut spread"
           },
           {
             "Name_subtitle": null
@@ -57956,7 +57956,7 @@
             "Name_subtitle": "fresh"
           },
           {
-            "Keywords": "fresh brautwurst,brautwurst,fresh"
+            "Keywords": "fresh bratwurst,bratwurst,fresh"
           },
           {
             "Pantry_Min": null
@@ -58060,7 +58060,7 @@
             "Name_subtitle": "smoked and processed"
           },
           {
-            "Keywords": "smoked brautwurst,processed brautwurst,bratwurst,smoked,processed"
+            "Keywords": "smoked bratwurst,processed bratwurst,bratwurst,smoked,processed"
           },
           {
             "Pantry_Min": null
@@ -58319,7 +58319,7 @@
             "DOP_Freeze_Min": 2
           },
           {
-            "DOP_Freeze_Max": 2
+            "Refrigerate_After_Opening_Max": 2
           },
           {
             "DOP_Freeze_Metric": "Years"

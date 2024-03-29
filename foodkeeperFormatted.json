@@ -670,8 +670,8 @@
         "Pantry_After_Opening_Metric": null,
         "Refrigerate_Max": null,
         "Refrigerate_Metric": "Package use-by date",
-        "DOP_Refrigerate_Max": null,
-        "DOP_Refrigerate_Metric": null,
+        "DOP_Refrigerate_Max": 3,
+        "DOP_Refrigerate_Metric": "Weeks",
         "Refrigerate_After_Opening_Max": null,
         "Refrigerate_After_Opening_Metric": null,
         "Freeze_Max": null,
@@ -6490,14 +6490,14 @@
         "DOP_Freeze_Metric": null
     },
     "265": {
-        "Name": "Papaya, mango, feijoa, passionfruit, casaha melon",
+        "Name": "Papaya, mango, feijoa, passion fruit, casaba melon",
         "Name_subtitle": null,
         "Keywords": [
             "papaya",
             "mango",
             "feijoa",
-            "passionfruit",
-            "casaha melon",
+            "passion fruit",
+            "casaba melon",
             "melon",
             "fruit",
             "passion"
@@ -9358,7 +9358,7 @@
             "apricots",
             "apricot",
             "mangoes",
-            "mangoe",
+            "mango",
             "cranberries",
             "cranberry"
         ],
@@ -15332,7 +15332,7 @@
             "sunflower seeds",
             "seed",
             "seeds",
-            "kernal",
+            "kernel",
             "shell"
         ],
         "Pantry_Max": null,
@@ -15481,7 +15481,7 @@
         "DOP_Freeze_Metric": null
     },
     "615": {
-        "Name": "Chocolate hazlenut spread",
+        "Name": "Chocolate hazelnut spread",
         "Name_subtitle": null,
         "Keywords": [
             "hazelnut spread",
@@ -16096,8 +16096,8 @@
         "Name": "Bratwurst",
         "Name_subtitle": "fresh",
         "Keywords": [
-            "fresh brautwurst",
-            "brautwurst",
+            "fresh bratwurst",
+            "bratwurst",
             "fresh"
         ],
         "Pantry_Max": null,
@@ -16121,8 +16121,8 @@
         "Name": "Bratwurst",
         "Name_subtitle": "smoked and processed",
         "Keywords": [
-            "smoked brautwurst",
-            "processed brautwurst",
+            "smoked bratwurst",
+            "processed bratwurst",
             "bratwurst",
             "smoked",
             "processed"
@@ -16191,11 +16191,11 @@
         "Refrigerate_Metric": null,
         "DOP_Refrigerate_Max": null,
         "DOP_Refrigerate_Metric": null,
-        "Refrigerate_After_Opening_Max": null,
+        "Refrigerate_After_Opening_Max": 2,
         "Refrigerate_After_Opening_Metric": null,
         "Freeze_Max": null,
         "Freeze_Metric": null,
-        "DOP_Freeze_Max": 2,
+        "DOP_Freeze_Max": null,
         "DOP_Freeze_Metric": "Years"
     },
     "642": {
