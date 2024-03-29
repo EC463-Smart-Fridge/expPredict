@@ -3355,10 +3355,10 @@
             "Refrigerate_After_Opening_Min": null
           },
           {
-            "Refrigerate_After_Opening_Max": null
+            "Refrigerate_After_Opening_Max": 1
           },
           {
-            "Refrigerate_After_Opening_Metric": null
+            "Refrigerate_After_Opening_Metric": "Weeks"
           },
           {
             "Refrigerate_After_Thawing_Min": null

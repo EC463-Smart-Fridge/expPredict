@@ -326,10 +326,10 @@
             "flavored",
             "flavor"
         ],
-        "Expiration_basis": "DOP_Freeze_Max",
-        "Expiration_time": 3,
-        "Expiration_metric": "Months",
-        "Expiration_time_DAYS": 90
+        "Expiration_basis": "Refrigerate_After_Opening_Max",
+        "Expiration_time": 1,
+        "Expiration_metric": "Weeks",
+        "Expiration_time_DAYS": 7
     },
     "28": {
         "Name": "Pudding",
