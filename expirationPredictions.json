@@ -298,7 +298,6 @@
         "Keywords": [
             "kefir",
             "fermented milk",
-            "milk",
             "fermented"
         ],
         "Expiration_basis": "Refrigerate_After_Opening_Max",
@@ -2743,9 +2742,7 @@
             "pies",
             "cream",
             "pie",
-            "banana",
             "banana cream",
-            "coconut",
             "coconut cream",
             "butterscotch"
         ],
@@ -2761,8 +2758,6 @@
             "pies",
             "chiffon",
             "pie",
-            "chocolate",
-            "lemon",
             "chocolate pie",
             "lemon pie"
         ],
@@ -2776,19 +2771,12 @@
         "Name_subtitle": "apple, peach, blueberry, apricot, cherry, blackberry",
         "Keywords": [
             "pies",
-            "fruit",
-            "pie",
-            "apple",
+            "fruit pie",
             "apple pie",
-            "peach",
             "peach pie",
-            "blueberry",
             "blueberry pie",
-            "cherry",
             "cherry pie",
-            "apricot",
             "apricot pie",
-            "blackberry",
             "blackberry pie"
         ],
         "Expiration_basis": "Refrigerate_After_Opening_Max",
@@ -2803,7 +2791,6 @@
             "pies",
             "mincemeat",
             "pie",
-            "meat",
             "mince"
         ],
         "Expiration_basis": "Refrigerate_After_Opening_Max",
@@ -2817,7 +2804,7 @@
         "Keywords": [
             "pies",
             "pie",
-            "pecan"
+            "pecan pie"
         ],
         "Expiration_basis": "Refrigerate_After_Opening_Max",
         "Expiration_time": 4,
@@ -2830,7 +2817,7 @@
         "Keywords": [
             "pies",
             "pie",
-            "pumpkin"
+            "pumpkin pie"
         ],
         "Expiration_basis": "Refrigerate_After_Opening_Max",
         "Expiration_time": 4,
@@ -5667,8 +5654,7 @@
             "salmon",
             "mixed",
             "mixed seafood",
-            "seafood salad",
-            ""
+            "seafood salad"
         ],
         "Expiration_basis": "Refrigerate_Max",
         "Expiration_time": 4,
@@ -9033,8 +9019,7 @@
             "fruit bars",
             "fruit bar",
             "snack bars",
-            "snack barsnack",
-            "",
+            "snack bar",
             "nut bars",
             "nut bar",
             "seed bars",
