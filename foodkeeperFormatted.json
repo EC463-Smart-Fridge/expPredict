@@ -16427,7 +16427,9 @@
             "nutrition supplement drinks",
             "drinks",
             "bottled",
-            "supplement"
+            "supplement",
+            "shake",
+            "nutrition"
         ],
         "Pantry_Max": null,
         "Pantry_Metric": "Package use-by date",
