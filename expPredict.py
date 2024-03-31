@@ -25,6 +25,7 @@ for product_id, product_info in expiration_data.items():
 
 # output results
 if best_match:
+    
     print("Match found!")
     print("Name:", best_match['Name'])
     print("Subtitle:", best_match['Name_subtitle'])
@@ -40,6 +41,11 @@ if best_match:
 
     expiration_date = current_date + timedelta(days=expiration_time_days)
     print("Predicted expiration date:", expiration_date.strftime("%Y-%m-%d"))
+
+    # convert to unix timestamp format
+    expiration_datetime = datetime.combine(expiration_date, datetime.min.time())
+    expiration_timestamp = expiration_datetime.timestamp()
+    print(int(expiration_timestamp))
 
 else:
     print("No matching products found.")
