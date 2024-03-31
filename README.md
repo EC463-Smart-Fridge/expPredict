@@ -1,5 +1,8 @@
 # Food Item Expiration Date Prediction
 
+## Required files for implementation:
+expPredictLambda.py, expirationPredictions.json
+
 ## formatData.py
 Extracts and reformats food storage time data from foodkeeper.json, and saves to foodkeeperFormatted.json.
 
